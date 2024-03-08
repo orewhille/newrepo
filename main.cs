@@ -5,7 +5,7 @@
             private List<TKey> keys = new List<TKey>();
             
             [SerializeField]
-            private List<TValue> values = new List<TValue>();
+            private List<TValue> values = new List<TValue>();//hi
             
             // save the dictionary to lists
             public void OnBeforeSerialize()
